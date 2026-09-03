@@ -1,0 +1,16 @@
+1201,Kaveesha,21,Fever,Normal,08:15
+1082,Nimal,45,Heart Pain,Critical,08:20
+1503,Amali,32,Headache,Serious,08:25
+1004,Sunil,60,Diabetes,Serious,08:30
+1505,Tharindu,27,Accident Injury,Critical,08:35
+1896,Piumi,19,Cold,Normal,08:40
+1127,Rashmi,38,Asthma,Serious,08:45
+1098,Kamal,52,Chest Pain,Critical,08:50
+1209,Sachini,24,Fever,Normal,08:55
+1010,Dilshan,41,Back Pain,Serious,09:00
+2569,Kavee,23,Fever,Serious,06:50
+2156,Malindi,21,Cold,Critical,09:00
+5956,Piula,23,Cold,Normal,11:00
+2563,Chathu,23,Fever,Serious,11:20
+5051,Sanushi,32,Cold,Serious,12:00
+5689,Kavee,12,Cold,Serious,09:10
